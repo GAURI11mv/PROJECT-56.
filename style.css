@@ -1,0 +1,119 @@
+body {       
+text-align: center;    
+background: linear-gradient(#7d050f 0%,#f73b4e 100%);
+}
+
+
+img {
+    
+height: 350px;   
+width: 650px;    
+margin: 30px;
+}
+
+
+h5 {
+    
+font-family: 'Exo', sans-serif;
+    
+font-size: 25px;
+}
+
+#places {
+background: linear-gradient(#855d83 0%, #f2cef0 100%) ;  
+}
+
+#birds {
+background: linear-gradient(#8a0606 0%,#f74f60 100%)    
+
+}
+
+#animals {
+    
+background: linear-gradient(#f74f60 0%,#5c0631 100% );
+    
+}
+
+
+#flowers {
+    
+background: linear-gradient(#f70aeb 0%,#7d050f 100%) ;   
+}
+
+
+.links {
+   display: inline;
+padding-left: 33px;    
+padding-right: 25px;
+font-family: monospace;
+font-size: 20px;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    float: right;
+}
+
+#about {
+    
+ font-size: 23px;  
+  margin-top: 30px; 
+  margin-bottom: 5px;   
+    
+}
+
+h2 {
+    
+    font-size: 23px;
+    font-family: 'Indie Flower', cursive;
+    color: snow;
+}
+
+h3 {
+    
+    font-size: 23px;
+      color: snow;
+    font-family: sans-serif;
+}
+
+
+h4 {
+    
+    font-size: 23px;
+    font-family: monospace;
+      color: snow;
+
+}
+
+
+img:hover {
+    transform: scale(0.9)
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
